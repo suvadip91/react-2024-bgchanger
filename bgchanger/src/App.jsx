@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div className="text-3xl">
+      <div className="text-3xl scre">
         <h1>This is react</h1>
       </div>
     </>
